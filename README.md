@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcela Araújo</h1>
-<h3 align="center">@ <a href="https://www.42porto.com/">42 Porto</a> and <a href="https://ispgaya.pt/pt">ISPGAYA</a>!</h3>
+<h3 align="center">@ <a href="https://www.42porto.com/">42 Porto</a>!</h3>
 
 - 🌱 I’m currently learning **C**
 

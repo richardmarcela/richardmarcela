@@ -2,11 +2,11 @@
 <h3 align="center">@ <a href="https://www.42porto.com/">42 Porto</a>!</h3>
 
 - 🌱 I’m currently learning **C**, **C++** and **Rust**
-- 
+
 	<polygon xmlns="http://www.w3.org/2000/svg" points="229.2,443.9 279.9,443.9 279.9,469.3 305.2,469.3 305.2,423.4 254.6,423.4 305.2,372.7 279.9,372.7 229.2,423.4 " id="polygon5" style="fill:#f;"/>
-	<polygon xmlns="http://www.w3.org/2000/svg" points="316.1,398.1 341.4,372.7 316.1,372.7 " id="polygon7" style="fill:#f00;"/>
+	<polygon xmlns="http://www.w3.org/2000/svg" points="316.1,398.1 341.4,372.7 316.1,372.7 " id="polygon7" style="fill:#c12b2b;"/>
 	<polygon xmlns="http://www.w3.org/2000/svg" points="341.4,398.1 316.1,423.4 316.1,448.7 341.4,448.7 341.4,423.4 366.8,398.1 366.8,372.7 341.4,372.7 " id="polygon9" style="fill:#e60d0d;"/>
-	<polygon xmlns="http://www.w3.org/2000/svg" points="366.8,423.4 341.4,448.7 366.8,448.7 " id="polygon11" style="fill:#f00;"/>
+	<polygon xmlns="http://www.w3.org/2000/svg" points="366.8,423.4 341.4,448.7 366.8,448.7 " id="polygon11" style="fill:#ff0202;"/>
 
 - 📫 How to reach me **richard.marcela@yahoo.com.br**
 

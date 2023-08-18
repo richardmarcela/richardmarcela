@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcela Araújo</h1>
+<h1 align="center">Hi 👋, I'm Marcela Araújo (42 user: mrichard)</h1>
 <h3 align="center">@ <a href="https://www.42porto.com/">42 Porto</a>!</h3>
 
 - 🌱 I’m currently learning **C**, **C++** and **Rust**
